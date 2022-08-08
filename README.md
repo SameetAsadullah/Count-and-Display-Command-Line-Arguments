@@ -5,7 +5,7 @@ A simple `C++ Program` to count and display `Command Line Arguments`.
 
 
 ### Manual
-1) Use the following command to `Complie the Code`:
+1) Use the following command to `Compile the Code`:
     ```
     g++ main.cpp
     ```
