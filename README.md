@@ -17,5 +17,5 @@ A simple `C++ Program` to count and display `Command Line Arguments`.
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Count-and-Display-Command-Line-Arguments/blob/main/extras/working-ss.png" alt = "" width="800px"/>
+  <img src = "https://github.com/SameetAsadullah/Count-and-Display-Command-Line-Arguments/blob/main/extras/working-ss.png" alt = "" width="700px"/>
 </div>
